@@ -1,5 +1,5 @@
 {
-  "source_base_path": "c:/temp/docfx",
+  "source_base_path": "C:/Users/freddyk/AppData/Local/Temp/fc450890-2ca0-4102-ac58-2a9637db5f02",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -148,6 +148,29 @@
       "output": {
         ".html": {
           "relative_path": "reference/myapp/PageExtension/CustomerListExt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/æææ/Module/Æææ.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/æææ/Module/Æææ.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/æææ/PageExtension/CustomerListExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/æææ/PageExtension/CustomerListExt.html"
         }
       },
       "version": ""

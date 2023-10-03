@@ -108,6 +108,11 @@ references:
   summary: ''
   fqName: MyApp by Freddy (6.0.86.0)
   href: reference/myapp/Module/MyApp.html
+- uid: N:Module::Æææ
+  name: Æææ
+  summary: ''
+  fqName: Æææ by Øøø (1.0.11.1)
+  href: reference/%C3%A6%C3%A6%C3%A6/Module/%C3%86%C3%A6%C3%A6.html
 - uid: O:Codeunit::BingMaps_Geocode
   name: "\"BingMaps Geocode\""
   fqName: "\"BingMaps Geocode\""
@@ -149,7 +154,7 @@ references:
 - uid: O:PageExtension::CustomerListExt
   name: CustomerListExt
   fqName: CustomerListExt
-  href: reference/myapp/PageExtension/CustomerListExt.html
+  href: reference/%C3%A6%C3%A6%C3%A6/PageExtension/CustomerListExt.html
 - uid: O:Table::BingMaps_Customer
   name: "\"BingMaps Customer\""
   fqName: "\"BingMaps Customer\""
